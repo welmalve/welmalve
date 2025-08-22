@@ -59,4 +59,3 @@ Sou um entusiasta de dados com foco em transformar informações brutas em **ins
   <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=welmalve&repo=revenue-regression-analysis&theme=dark&show_description=true&description_lines=2&show_owner=true" />
 </a>
 
-feat: add profile README content
