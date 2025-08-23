@@ -9,7 +9,7 @@
 Sou um entusiasta de dados com foco em transformar informações brutas em **insights acionáveis** que impulsionam a tomada de decisões estratégicas. Com formação em **Ciência de Dados e Big Data Analytics**, possuo uma base sólida para enfrentar desafios complexos e entregar soluções baseadas em dados.
 
 
-## 🛠 Habilidades Técnicas
+### 🛠 Habilidades Técnicas
 
 ### 📊 **Análise & Visualização de Dados**
 - **Linguagens**: Python (Pandas, NumPy, SciPy, Seaborn, Matplotlib, Statsmodels), R, SQL
